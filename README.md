@@ -2,7 +2,7 @@
 
 Tracking my daily progress, notes, and exercises as I learn Java for my Higher Technical Certificate (DAM).
 
-## 🛠 Environment
+## Environment
 
 * **Java:** 21 (Eclipse Temurin LTS)
 * **IDE:** IntelliJ IDEA 2026.1
