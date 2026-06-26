@@ -62,14 +62,38 @@ public class UseVariables {
 
         double num4 = 2;
 
-        double resultado = num3 / num4;
+        double result = num3 / num4;
 
-        System.out.println(resultado);
+        System.out.println(result);
 
         int age3 = 19;
 
         String name2 = "Juan has";
 
         System.out.println(name2 + " " + age3 + " years");
+
+        int operator1, operator2, result1;
+
+        operator1 = 7;
+
+        operator2 = 9;
+
+        result1 = operator1 + operator2;
+
+        System.out.println(result1);
+
+        int operator3 = 7, operator4 = 9, result2 = operator3 + operator4;
+
+        System.out.println(result2);
+
+        byte number1 = 15;
+
+        byte number2 = 25;
+
+        byte result3 = (byte) (number1 + number2); //---byte result3=number1+number2; ERROR---
+
+        System.out.println(result3);
+        
+
     }
 }

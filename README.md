@@ -12,6 +12,18 @@ Tracking my daily progress, notes, and exercises as I learn Java for my Higher T
 
 ## Daily Log
 
+## Day 3: Constants, Type Casting, and Java API Basics
+
+Today's focus was on strict typing and understanding how the Java API organizes the standard library.
+
+Constants: Used the final keyword to ensure value immutability for fixed data.
+
+Type Casting: Managed arithmetic promotion when working with small data types (like byte), requiring explicit casting to
+maintain type consistency.
+
+Java API: Began exploring the hierarchy of packages. Learned that the API is structured as a tree of pre-written
+classes, which is essential for scaling projects without reinventing core functionality.
+
 ## Day 2: Variables, Arithmetic Operators, and String Concatenation
 
 In this session, the focus was placed on exploring variable manipulation in Java, analyzing arithmetic operators, type
